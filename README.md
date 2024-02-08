@@ -67,3 +67,54 @@ conda env update
 ```
 
 ## AULA O2 (08/02/2024): 
+## FUNÇÕES NATIVAS
+
+### `print()`
+- Função responsável por nos mostrar os resultados.
+- isso facilita para verificar se o que estamos fazendo está correto.
+- Não executa nada de fato, apenas nos mostra (visualmente) os resultados.
+
+### `type()`
+- Função responsável por indicar o tipo da função (ex: string, lista, etc.)
+- é interessante usar essa função dentro do print, pois vai nos mostrar certinho 
+
+### `len()`
+- Função responsável por indicar quantidade de caracteres
+- mais usado em listas e strings
+- lista é tudo que está entre [colchetes]
+
+### `input()`
+- Responsável por passar ao programa algum tipo de dado; é uma forma de interação com o código
+- Então podemos considerar a entrada de informações
+- O retorno/resposta vai depender do que você indicar 
+
+### `dir()`
+- Função responsável por apresentar todos os atributos e funções/métodos disponíveis para determinado tipo de dado ou variável
+- Podemos dizer que são funções "pré-prontas" que podemos usar
+- útil para explorar a estrutura de um objeto e descobrir quais operações podem ser realizadas com ele
+
+## MÉTODOS DE STRING
+
+### upper()
+### title()
+### strip()
+### split()
+### f string
+
+## ESTRUTURA DE REPETIÇÃO (LOOP)
+
+### For
+- Responsável por percorrer um bloco de código indicado pelo usuário
+
+### While
+- Responsável por
+
+## ESTRUTURA DO CÓDIGO
+### `Def`
+- O que define o início de uma função é o comando `def`
+- É recomendado que o script contenha vários blocos de funções separados, sendo cada um responsável por realizar uma parte do processo que estamos construindo
+
+### `return`
+- comando que indica o valor que a função deve retornar quando chamada
+- bastante confundido com o print, mas diferente desse, o return de fato executa algo e não apenas mostra o resultado
+- o return apresenta um resultado da função que você criou
