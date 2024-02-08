@@ -1,7 +1,7 @@
 # Minicurso-Fundamentos
 Atividades realizadas no minicurso de fundamentos de análise de dados - LabRI
 
-## Preparação do ambiente de trabalho
+## AULA O1 (08/02/2024): Preparação do ambiente de trabalho
 
 ### Versionamento
 
@@ -65,3 +65,5 @@ conda activate nome_ambiente
 ```
 conda env update
 ```
+
+## AULA O2 (08/02/2024): 
